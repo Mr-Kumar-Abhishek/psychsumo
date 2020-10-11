@@ -13,10 +13,30 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            Hi, We're Next.js & Netlify<span className="fancy">.</span>
+          About Psychsumo<span className="fancy">.</span>
           </h1>
           <span className="handle">@nextjs-netlify-blog</span>
-          <h2>A blog template with Next.js and Netlify.</h2>
+          <br></br>
+          <br></br>
+          <blockquote>
+              <h3>"Psychsumo is a social hub dedicated to promoting better mental health."</h3>
+          </blockquote>
+
+          <p><strong>Psychsumo is your big brother, sister and best friend!</strong></p> 
+          
+          <br></br>
+
+          <p>We understand how important it is to have good mental health -- and doing it alone 
+          isn’t enough that’s why we’re here. Psychsumo is your online support that can inspire 
+          and help you to improve your mental health.</p>
+
+          <p>Psychsumo offers resources for health and wellness as well as mental health awareness. 
+          We work as your close buddy to motivate, encourage and help you become the best version of yourself.
+          So, whatever challenges you're experiencing right now, know that we're here for you. </p>
+
+          <br></br>
+          <br></br>
+          <br></br>
           <SocialList />
         </div>
       </div>
