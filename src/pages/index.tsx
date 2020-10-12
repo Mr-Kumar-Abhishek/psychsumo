@@ -15,7 +15,7 @@ export default function Index() {
           <h1>
           About Psychsumo<span className="fancy">.</span>
           </h1>
-          <span className="handle">@nextjs-netlify-blog</span>
+          <span className="handle">@PsychSumo</span>
           <br></br>
           <br></br>
           <blockquote>
