@@ -26,13 +26,11 @@ export default function Index() {
           
           <br></br>
 
-          <p>We understand how important it is to have good mental health -- and doing it alone 
-          isn’t enough that’s why we’re here. Psychsumo is your online support that can inspire 
-          and help you to improve your mental health.</p>
-
-          <p>Psychsumo offers resources for health and wellness as well as mental health awareness. 
-          We work as your close buddy to motivate, encourage and help you become the best version of yourself.
-          So, whatever challenges you're experiencing right now, know that we're here for you. </p>
+          <p>We understand how important it is to have good mental health -- and doing it alone isn’t enough that’s why we’re here.</p>
+          <p> Psychsumo is your online support that can inspire and help you to improve your mental health.</p>
+          <p>Psychsumo offers resources for health and wellness as well as mental health awareness.<p>
+          </p>We work as your close buddy to motivate, encourage and help you become the best version of yourself.</p>
+          <p>So, whatever challenges you're experiencing right now, know that we're here for you. </p>
 
           <br></br>
           <br></br>
